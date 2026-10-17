@@ -1,24 +1,206 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>DWS Press</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DWS Press</title>
+
+<style>
+
+body{
+    margin:0;
+    font-family: Georgia, "Times New Roman", serif;
+    color:#222;
+    background:#faf9f7;
+    line-height:1.7;
+}
+
+header{
+    background:#1f2f46;
+    color:white;
+    padding:20px 40px;
+}
+
+header h1{
+    margin:0;
+    font-size:2.2rem;
+    letter-spacing:1px;
+}
+
+nav{
+    margin-top:10px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-right:24px;
+    font-size:0.95rem;
+}
+
+.hero{
+    max-width:1100px;
+    margin:auto;
+    padding:80px 40px;
+}
+
+.hero h2{
+    font-size:3rem;
+    margin-bottom:10px;
+    color:#1f2f46;
+}
+
+.hero p{
+    font-size:1.2rem;
+    max-width:700px;
+}
+
+.section{
+    max-width:1100px;
+    margin:auto;
+    padding:40px;
+}
+
+.featured{
+    background:white;
+    border-radius:10px;
+    padding:40px;
+    box-shadow:0 2px 10px rgba(0,0,0,0.08);
+}
+
+.featured h3{
+    color:#1f2f46;
+    margin-top:0;
+    font-size:2rem;
+}
+
+.button{
+    display:inline-block;
+    margin-top:20px;
+    background:#1f2f46;
+    color:white;
+    padding:12px 22px;
+    text-decoration:none;
+    border-radius:5px;
+}
+
+.mission{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:30px;
+    margin-top:30px;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 2px 10px rgba(0,0,0,0.08);
+}
+
+footer{
+    margin-top:60px;
+    background:#1f2f46;
+    color:white;
+    padding:30px;
+    text-align:center;
+}
+
+</style>
 </head>
 <body>
 
-<h1>DWS Press</h1>
+<header>
+    <h1>DWS Press</h1>
 
-<p>Preserving historical voices through books, archives, photographs, and research.</p>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Books</a>
+        <a href="#">Authors</a>
+        <a href="#">Archive</a>
+        <a href="#">Contact</a>
+    </nav>
+</header>
 
-<h2>Featured Book</h2>
+<section class="hero">
+    <h2>Preserving Historical Voices</h2>
+
+    <p>
+        DWS Press publishes and preserves books,
+        photographs, maps, letters, and historical records
+        drawn from the Sullivan Family Archive and related
+        collections.
+    </p>
+</section>
+
+<section class="section">
+
+<div class="featured">
+
+<h3>Featured Title: Navigator</h3>
 
 <p>
-Navigator<br>
-William John Sullivan
+<b>Navigator</b> is the World War II memoir of
+Army Air Forces navigator William John Sullivan.
+Based on original memoirs, maps, wartime records,
+and family archives, Navigator follows one man's
+journey through the air war in the South Pacific.
+</p>
+
+<a class="button" href="#">
+Book Information Coming Soon
+</a>
+
+</div>
+
+</section>
+
+<section class="section">
+
+<h2>About DWS Press</h2>
+
+<div class="mission">
+
+<div class="card">
+<h3>Books</h3>
+<p>
+Publishing historical memoirs, travel narratives,
+family histories, and archival works.
+</p>
+</div>
+
+<div class="card">
+<h3>Archives</h3>
+<p>
+Preserving photographs, letters, documents, maps,
+and primary sources for future generations.
+</p>
+</div>
+
+<div class="card">
+<h3>History</h3>
+<p>
+Dedicated to presenting authentic voices and
+historical experiences through carefully edited
+publications.
+</p>
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>
+© DWS Press
 </p>
 
 <p>
-Website under construction.
+Publisher of Navigator by William John Sullivan
 </p>
+
+</footer>
 
 </body>
 </html>
