@@ -37,14 +37,22 @@ nav a{
     padding:40px;
 }
 
+.book-entry {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+}
+
 .book-cover {
-    display: block;
-    max-width: 250px;
-    width: 100%;
+    width: 180px;
     height: auto;
-    margin: 0 auto 1rem auto;
+    flex-shrink: 0;
     border-radius: 4px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    box-shadow: 0 2px 8px rgba(0,0,0,.15);
+}
+
+.book-info {
+    flex: 1;
 }
 
 .hero{
