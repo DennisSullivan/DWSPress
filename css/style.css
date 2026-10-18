@@ -37,6 +37,16 @@ nav a{
     padding:40px;
 }
 
+.book-cover {
+    display: block;
+    max-width: 250px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto 1rem auto;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
 .hero{
     display:flex;
     flex-wrap:wrap;
