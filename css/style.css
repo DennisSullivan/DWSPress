@@ -39,14 +39,13 @@ nav a{
 
 .book-entry {
     display: flex;
-    gap: 2rem;
     align-items: flex-start;
+    gap: 2rem;
 }
 
 .book-cover {
     height: 220px;
     width: auto;
-    max-width: 300px;
     flex-shrink: 0;
 
     border-radius: 4px;
