@@ -44,9 +44,9 @@ nav a{
 }
 
 .book-cover {
-    width: 180px;
-    height: auto;
-    flex-shrink: 0;
+    height: 240px;
+    width: auto;
+    display: block;
     border-radius: 4px;
     box-shadow: 0 2px 8px rgba(0,0,0,.15);
 }
