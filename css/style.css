@@ -44,7 +44,7 @@ nav a{
 }
 
 .book-cover {
-    height: 220px;
+    height: 180px;
     width: auto;
     flex-shrink: 0;
 
@@ -52,8 +52,8 @@ nav a{
     box-shadow: 0 2px 8px rgba(0,0,0,.15);
 }
 
-.book-info {
-    flex: 1;
+.book-info h2 {
+    margin-top: 0;
 }
 
 .book-info h2 {
