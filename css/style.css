@@ -56,6 +56,10 @@ nav a{
     flex: 1;
 }
 
+.book-info h2 {
+    margin-top: 0;
+}
+
 .hero{
     display:flex;
     flex-wrap:wrap;
