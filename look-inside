@@ -1,0 +1,353 @@
+<!-- DWS Press : look-inside.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Navigator: Look Inside | DWS Press</title>
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+
+    <div class="container">
+
+        <h1>DWS Press</h1>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="books.html">Books</a>
+            <a href="authors.html">Authors</a>
+            <a href="archive.html">Archive</a>
+            <a href="about.html">About</a>
+        </nav>
+
+    </div>
+
+</header>
+
+<div class="container">
+
+    <div class="card">
+
+        <div class="book-entry">
+
+            <img src="images/Navigator_Front_Cover.jpg"
+                 alt="Navigator Front Cover"
+                 class="book-cover">
+
+            <div class="book-info">
+
+                <h2>Navigator: Look Inside</h2>
+
+                <p>
+                    <em>A World War II Memoir</em>
+                </p>
+
+                <p>
+                    By William John Sullivan
+                </p>
+
+                <p>
+                    This preview contains the Table of Contents,
+                    Editor's Note, and Chapter 16, "Port Moresby."
+                </p>
+
+                <p>
+                    <a class="button" href="navigator.html">
+                        Return to Navigator
+                    </a>
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Table of Contents</h2>
+
+        <h3>Part I - Becoming a Navigator</h3>
+
+        <ul>
+            <li>Leaving Home</li>
+            <li>Kelly Field</li>
+            <li>Chickasha: The Washout</li>
+            <li>Ellington and Hondo</li>
+            <li>Graduation and Commissioning</li>
+            <li>San Francisco: Waiting for War</li>
+            <li>Embarkation: Convoy to Hawaii</li>
+            <li>Hickam and Bellows: First Missions</li>
+            <li>Air Transport Command</li>
+            <li>Rickenbacker Search</li>
+            <li>Joining the 400th Squadron</li>
+            <li>The Hawaiian Interlude</li>
+            <li>Across the Pacific to Australia</li>
+        </ul>
+
+        <h3>Part II - The Reconnaissance War</h3>
+
+        <ul>
+            <li>First Missions</li>
+            <li>Learning to Live with War</li>
+            <li><strong>Port Moresby</strong></li>
+            <li>The Reconnaissance War</li>
+            <li>The Long Flight to Manado</li>
+            <li>Sydney</li>
+            <li>Squadron Navigator</li>
+            <li>Losses</li>
+            <li>Jungle Fever</li>
+            <li>Life Between Missions</li>
+            <li>Orders Home</li>
+        </ul>
+
+        <h3>Part III - Coming Home</h3>
+
+        <ul>
+            <li>Across the Pacific Again</li>
+            <li>Leave in Phoenix and Duluth</li>
+            <li>Instructor at Dalhart</li>
+            <li>Radar Navigation</li>
+            <li>Love and Marriage</li>
+            <li>The Proposal</li>
+            <li>June Twenty-Ninth</li>
+            <li>Honeymoon and First Lesson</li>
+        </ul>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Editor's Note</h2>
+
+        <p>
+            <em>Navigator</em> is based on the writings of
+            William John Sullivan, a navigator who served with
+            the 90th Bomb Group in the Southwest Pacific during
+            World War II.
+        </p>
+
+        <p>
+            The principal sources for this edition are two
+            manuscripts written by Sullivan at different times
+            in his life. The first was a wartime memoir focused
+            primarily on his military service. The second was a
+            later autobiography that expanded upon many of the
+            same events and included recollections of his
+            family, education, friendships, and postwar life.
+        </p>
+
+        <p>
+            The goal of the editing process was not to modernize
+            the narrative or reinterpret Sullivan's experiences.
+            Every effort was made to retain his straightforward
+            style, his sense of humor, and his preference for
+            describing events without exaggeration.
+        </p>
+
+        <p>
+            Like many veterans, Sullivan wrote primarily about
+            the people around him rather than about himself.
+            What emerges from these pages is not only the story
+            of a navigator, but also the story of a crew, a
+            squadron, and a generation of young men who learned
+            their craft under wartime conditions and carried
+            those experiences with them for the rest of their
+            lives.
+        </p>
+
+        <p>
+            <em>Dennis Sullivan, Editor</em>
+        </p>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Chapter 16 - Port Moresby</h2>
+
+        <p>
+            Australian Army engineers were completing a new
+            airstrip at Port Moresby with all the tent buildings
+            necessary to accommodate the 90th Group and some
+            of our support personnel who had already arrived in
+            Port Moresby and others en route or on the verge
+            of moving.
+        </p>
+
+        <p>
+            The timing was fortunate as the rains came and we
+            were forced to hurriedly abandon our flooded Iron
+            Range Air Base. Port Moresby, being closer to the
+            Japanese bases, proved to be a much better base for
+            our combat missions, although we were still subjected
+            to nightly Japanese bombings.
+        </p>
+
+        <p>
+            We moved to Port Moresby, leaving Iron Range with
+            difficulty as the landing strip was partially under
+            water from the torrential rains. Our support group,
+            the ground personnel, went by ship and arrived
+            several weeks after we did.
+        </p>
+
+        <p>
+            We lived as casuals, orphans, coping as best we
+            could and eating at a dining room called
+            Consolidated Mess. Our standard fare was creamed
+            corned beef and instant mashed potatoes served in
+            thirty-gallon galvanized garbage cans.
+        </p>
+
+        <p>
+            We four tent mates were amazingly compatible,
+            with Weinberg enthusiastically entertaining us and
+            organizing our extracurricular activities. All of
+            us were readers and between us we had an impressive
+            collection of paperback books.
+        </p>
+
+        <p>
+            Upon arriving at our new base, we were issued a
+            four-man tent which we were expected to set up.
+            After some friendly arguing, Al wanted to choose
+            a level spot while I insisted on a location on a
+            slope that would keep us out of the mud during
+            the rains.
+        </p>
+
+        <p>
+            Al came up with a solution. He found some wooden
+            crates which we planted on the low side and then
+            covered them with dirt to get a level floor for
+            our tent.
+        </p>
+
+        <p>
+            Pete Peterson, my neighbor, my friend and my
+            tormentor, was living in a tent close to us but
+            on level ground.
+        </p>
+
+        <p>
+            Pete had a sense of humor and displayed it by
+            coming over and volunteering a few despairing
+            remarks such as, "This has got to be the stupidest
+            sight I've ever seen. It had to be the brain child
+            of a dumb Irishman."
+        </p>
+
+        <p>
+            One of my tent mates persuaded the workers to
+            install a tee and a hose bib in the line in a
+            sheltered spot behind our tent. We then attached
+            a piece of garden hose that led to a can with
+            holes punched in it suspended from a tree branch
+            to give us our own private shower.
+        </p>
+
+        <p>
+            The arrangement turned out to be even better
+            than we expected. Since the pipe ran to the
+            bottom of the colonel's tank, we could siphon
+            water whenever there was any in the tank.
+            Sometimes we would run the tank dry.
+        </p>
+
+        <p>
+            As long as we were stationed there, the colonel
+            nevernchy.
+        </p>
+
+        <p>
+            Punchy was an enlisted man, not the smartest man
+            in our squadron but well liked for his sunny
+            disposition. He performed odd jobs for us and was
+            always willing to serve.
+        </p>
+
+        <p>
+            On this occasion Punchy, as he did each day, had
+            poured five gallons of aircraft fuel into the
+            outhouse hole.
+        </p>
+
+        <p>
+            One of the unfortunates was a member of our
+            ground crew. The next day, when Alex and I
+            visited him at the hospital, we found him with
+            his legs suspended in an uncomfortable manner.
+        </p>
+
+        <p>
+            He was quite unhappy with his plight, but had
+            not lost his sense of humor. When we asked how
+            he was doing he gave us a stern look and replied,
+            "War is hell."
+        </p>
+
+        <p>
+            Punchy was devastated by this turn of events but
+            was forgiven magnanimously and, as time passed,
+            he regained his good spirits.
+        </p>
+
+        <p>
+            <em>Chapter continues in the published edition.</em>
+        </p>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Continue Reading</h2>
+
+        <p>
+            Navigator contains thirty-two chapters covering
+            navigation training, Pacific crossings,
+            reconnaissance missions, combat operations,
+            squadron life, loss, homecoming, and the
+            beginning of William Sullivan's postwar life.
+        </p>
+
+        <p>
+            <a class="button" href="navigator.html">
+                Return to Navigator
+            </a>
+        </p>
+
+        <p>
+            <a class="button" href="books.html">
+                View Catalog
+            </a>
+        </p>
+
+    </div>
+
+</div>
+
+<footer>
+
+<p>© DWS Press</p>
+
+<p>Publishing works from the Sullivan Family Archive</p>
+
+<p>
+Contact:
+<a href="mailto:DWSPress127@gmail.com">
+DWSPress127@gmail.com
+</a>
+</p>
+
+</footer>
+
+</body>
+</html>
